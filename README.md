@@ -1,6 +1,8 @@
-🌆 Smart City Infrastructure Monitoring Using IoT and Cloud Computing 🌉
+SMART CITY INFRASTRUCTURE MONITORING USING IOT AND CLOUD COMPUTING 🌉
+
 Project Overview 📋
-This project aims to enhance the safety and efficiency of city infrastructure by developing an IoT-based solution that monitors critical infrastructure like bridges, roads, tunnels, and public utilities in real time. IoT sensors continuously track key parameters such as structural integrity, vibration, and environmental conditions, while data is transmitted to the cloud for analysis and storage. 🛠️ Predictive analytics help identify potential problems before they escalate, and real-time alerts enable city officials to take immediate action. 📊 Cloud integration allows for centralized monitoring of multiple assets, making the system scalable as cities grow.
+
+This project aims to enhance the safety and efficiency of city infrastructure by developing an IoT-based solution that monitors critical infrastructure like bridges, roads, tunnels, and public utilities in real time. IoT sensors continuously track key parameters such as structural integrity, vibration, and environmental conditions, while data is transmitted to the cloud for analysis and storage. 🛠️ Predictive analytics help identify potential problems before they escalate, and real-time alerts enable city officials to take immediate action. Cloud integration allows for centralized monitoring of multiple assets, making the system scalable as cities grow.
 
 Features ✨
 1. Real-Time Infrastructure Monitoring 📡: Track key metrics like vibration, stress levels, and environmental conditions using IoT sensors.
