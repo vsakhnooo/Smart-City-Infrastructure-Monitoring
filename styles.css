@@ -1,0 +1,29 @@
+.container {
+    max-width: 1200px;
+    margin-top: 50px;
+}
+
+h1 {
+    text-align: center;
+    margin-bottom: 30px;
+}
+
+.graph-container {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 20px;
+    justify-content: space-between;
+}
+
+.card {
+    width: 30%;
+    margin-bottom: 20px;
+}
+
+.card-body {
+    position: relative;
+}
+
+button {
+    margin-top: 20px;
+}
